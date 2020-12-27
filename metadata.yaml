@@ -1,5 +1,8 @@
 _repo: Pappilan-tuvassa-Yksinaytoksinen-huvinaytelma_64090
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wuori, Martti
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64090#Pappilan-tuvassa-Yksinaytoksinen-huvinaytelma
 gutenberg_issued: '2020-12-20'
 gutenberg_type: Text
 identifiers:
