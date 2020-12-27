@@ -1,0 +1,25 @@
+_repo: Pappilan-tuvassa-Yksinaytoksinen-huvinaytelma_64090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2020-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64090'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Pappilan tuvassa: Yksinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/64090
